@@ -2,6 +2,8 @@ production:
     rails: 
         configuration:
             ruby_version: 2.1.2
+            operating_system: Ubuntu1404
     postgresql:
        configuration:
            postgis: true
+           operating_system: Ubuntu1404
